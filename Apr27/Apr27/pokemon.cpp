@@ -1,7 +1,8 @@
+#include <iostream>
 using namespace std;
 double damage(double level, double power, double a, double d, double Modifier);
 int main() {
-	//made by trevin and jose
+	//made by trevin and  jose
 
 	//variable set up
 	double damageCalc;
